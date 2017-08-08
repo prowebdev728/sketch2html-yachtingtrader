@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap4",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "homepage": "https://getbootstrap.com",
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
