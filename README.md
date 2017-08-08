@@ -10,10 +10,8 @@ Yachting Trader
 <li>Slick slider</li>
 <li>Gulp</li>
 </ul>
-
 <h4>Install</h4>
 npm install
 bower install
--------------------------
 <h4>development</h4>
 npm start
